@@ -2,7 +2,7 @@
 
 This repository contains my solutions for the SETA Entrance Test,
 
-## 🏗️ Repository Structure
+## Repository Structure
 
 ```
 SETA_Entrance_Test_Intern/
@@ -17,9 +17,9 @@ SETA_Entrance_Test_Intern/
 └── README.md                  # This file
 ```
 
-## 🎯 Tasks Completed
+## Tasks Completed
 
-### ✅ Task 1: String Length Frequency
+### Task 1: String Length Frequency
 **Objective:** Identify the most frequent string lengths in an array
 
 **Features:**
@@ -43,7 +43,7 @@ node string-length-frequency.js
 
 ---
 
-### ✅ Task 2: Sum of Top Two Integers
+### Task 2: Sum of Top Two Integers
 **Objective:** Find the sum of the two largest integers in an array
 
 **Features:**
@@ -67,7 +67,7 @@ node sum_of_top_two.js
 
 ---
 
-### ✅ Task 3: Full Stack NodeJS-React-Redux Application
+### Task 3: Full Stack NodeJS-React-Redux Application
 **Objective:** Complete CRUD application with modern stack
 
 **Tech Stack:**
@@ -77,12 +77,12 @@ node sum_of_top_two.js
 - **Development:** Hot reload, error handling, validation
 
 **Features:**
-- ✅ RESTful API with full CRUD operations
-- ✅ Redux state management with async thunks
-- ✅ Responsive, modern UI design
-- ✅ Form validation and error handling
-- ✅ MongoDB integration
-- ✅ Professional styling with animations
+- RESTful API with full CRUD operations
+- Redux state management with async thunks
+- Responsive, modern UI design
+- Form validation and error handling
+- MongoDB integration
+- Professional styling with animations
 
 **API Endpoints:**
 ```

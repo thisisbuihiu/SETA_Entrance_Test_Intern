@@ -1,20 +1,17 @@
 # Full Stack Posts Application
 
-A complete CRUD application built with Node.js, Express, MongoDB, React, and Redux.
+## Features
 
+- **Full CRUD Operations**: Create, Read, Update, Delete posts
+- **RESTful API**: Built with Express.js and MongoDB
+- **Modern Frontend**: React with Redux for state management
+- **Responsive Design**: Works perfectly on desktop and mobile
+- **Real-time Updates**: Instant UI updates with Redux
+- **Input Validation**: Client and server-side validation
+- **Error Handling**: Comprehensive error handling
+- **Professional UI**: Modern, clean design with animations
 
-## 🌟 Features
-
-- ✅ **Full CRUD Operations**: Create, Read, Update, Delete posts
-- ✅ **RESTful API**: Built with Express.js and MongoDB
-- ✅ **Modern Frontend**: React with Redux for state management
-- ✅ **Responsive Design**: Works perfectly on desktop and mobile
-- ✅ **Real-time Updates**: Instant UI updates with Redux
-- ✅ **Input Validation**: Client and server-side validation
-- ✅ **Error Handling**: Comprehensive error handling
-- ✅ **Professional UI**: Modern, clean design with animations
-
-## 🏗️ Project Structure
+## Project Structure
 
 ```markdown:Task 3/README.md
 Task 3/
@@ -46,7 +43,7 @@ Task 3/
 └── README.md               # This file
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -114,7 +111,7 @@ Task 3/
    
    The app will open at `http://localhost:3000`
 
-## 📡 API Endpoints
+## API Endpoints
 
 ### Posts API
 
@@ -144,7 +141,7 @@ curl -X POST http://localhost:5001/api/posts \
 curl http://localhost:5001/api/posts
 ```
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Backend
 - **Node.js** - JavaScript runtime
@@ -161,7 +158,7 @@ curl http://localhost:5001/api/posts
 - **Axios** - HTTP client
 - **CSS3** - Styling with modern features
 
-## 🔧 Development
+## Development
 
 ### Available Scripts
 
@@ -188,7 +185,7 @@ curl http://localhost:5001/api/posts
 ```
 
 
-## 🧪 Testing
+## Testing
 
 ### Manual Testing Checklist
 
@@ -223,7 +220,7 @@ curl -X PUT http://localhost:5001/api/posts/:id \
 curl -X DELETE http://localhost:5001/api/posts/:id
 ```
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -250,7 +247,7 @@ curl -X DELETE http://localhost:5001/api/posts/:id
    - Make sure backend is running on port 5001
    - Check proxy setting in frontend package.json
 
-## 🤝 Contributing 
+## Contributing 
 
 Although this is just a simple project for an entrance test, I would be happy if you could give me some feedback on my code.
 
