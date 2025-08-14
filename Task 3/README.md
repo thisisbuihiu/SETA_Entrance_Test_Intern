@@ -17,7 +17,6 @@ A complete CRUD application built with Node.js, Express, MongoDB, React, and Red
 ## 🏗️ Project Structure
 
 ```markdown:Task 3/README.md
-<code_block_to_apply_changes_from>
 Task 3/
 ├── backend/                 # Node.js + Express API
 │   ├── models/             
@@ -162,17 +161,6 @@ curl http://localhost:5001/api/posts
 - **Axios** - HTTP client
 - **CSS3** - Styling with modern features
 
-## 📱 Screenshots
-
-### Home Page - Post List
-![Post List](https://via.placeholder.com/600x400/f8f9fa/495057?text=Post+List+View)
-
-### Create/Edit Post Form
-![Post Form](https://via.placeholder.com/600x400/f8f9fa/495057?text=Create+Post+Form)
-
-### Post Detail View
-![Post Detail](https://via.placeholder.com/600x400/f8f9fa/495057?text=Post+Detail+View)
-
 ## 🔧 Development
 
 ### Available Scripts
@@ -199,35 +187,6 @@ curl http://localhost:5001/api/posts
 }
 ```
 
-## 🚀 Deployment
-
-### Backend Deployment
-
-1. **Environment Variables for Production:**
-   ```env
-   NODE_ENV=production
-   PORT=5000
-   MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/posts_app
-   ```
-
-2. **Deploy to platforms like:**
-   - Heroku
-   - Railway
-   - Render
-   - DigitalOcean
-
-### Frontend Deployment
-
-1. **Build the application:**
-   ```bash
-   npm run build
-   ```
-
-2. **Deploy to platforms like:**
-   - Netlify
-   - Vercel
-   - GitHub Pages
-   - AWS S3
 
 ## 🧪 Testing
 
@@ -291,15 +250,9 @@ curl -X DELETE http://localhost:5001/api/posts/:id
    - Make sure backend is running on port 5001
    - Check proxy setting in frontend package.json
 
-## 📝 License
+## 🤝 Contributing 
 
-This project is licensed under the MIT License.
-
-## 👥 Contributors
-
-- **Your Name** - Initial work
-
-## 🤝 Contributing
+Although this is just a simple project for an entrance test, I would be happy if you could give me some feedback on my code.
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -307,29 +260,4 @@ This project is licensed under the MIT License.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📞 Support
-
-If you have any questions or issues, please:
-
-1. Check the troubleshooting section
-2. Search existing issues
-3. Create a new issue with details
-
 ---
-
-**Made with ❤️ using Node.js, React, and MongoDB**
-```
-
-This comprehensive README.md includes:
-
-✅ **Complete setup instructions**  
-✅ **Feature overview with checkmarks**  
-✅ **Project structure breakdown**  
-✅ **API documentation**  
-✅ **Technology stack details**  
-✅ **Deployment guides**  
-✅ **Troubleshooting section**  
-✅ **Testing instructions**  
-✅ **Professional formatting**  
-
-The README.md file is now ready for your repository! It provides everything someone would need to understand, set up, and run your full-stack application. 📚🚀
